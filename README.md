@@ -1,1 +1,3 @@
 # magnus
+
+Magnus hjemmeside 
