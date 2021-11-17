@@ -1,0 +1,16 @@
+---
+title: "Magnus´ hjemmeside"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# UHUUU!
+
+![](IMG_0772.jpg)
+
+
+
