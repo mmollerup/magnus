@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Magnus åbner en pakke pokemonkort
 
 
-<!-- ![](IMG_0622.mp4){width="100%"} -->
+![](IMG_0622.mp4){width="100%"}
 
 <br>
 <br>
