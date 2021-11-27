@@ -20,14 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Magnus åbner en pakke pokemonkort
 
 
-<!-- <img src="IMG_0622.mp4" type="video/mp4"/> -->
-
-
-<!-- <video class="tab" controls>Your browser does not support the &lt;video&gt; tag. -->
-<!--   <source src="IMG_0622.mp4"> -->
-<!-- </video> -->
-
-![](IMG_0622.mp4){width="100%"}
+<!-- ![](IMG_0622.mp4){width="100%"} -->
 
 <br>
 <br>
