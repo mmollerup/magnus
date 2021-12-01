@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 
-### Magnus´ eventyr
+### Magnus´ eventyr \#1
 
 Max skal på stranden.  
 Han vil lege gemmeleg.  
@@ -39,5 +39,18 @@ en stige ned fra skyen...
   
   *fortsættes...*
 
+<br>
+
+
+### Magnus´ eventyr \#2
+
+Ko er alene. Han går på græs.   
+Går og går.  
+Nu får han en ven. De leger  
+fangeleg.  
+Koen slår sig på et træ.   
+Koen får et ar - av-av!
+
+  *-Slut-*
   
 
