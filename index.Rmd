@@ -39,7 +39,6 @@ en stige ned fra skyen...
   
   *fortsættes...*
 
-<br>
 
 
 ### Magnus´ eventyr \#2
@@ -48,9 +47,13 @@ Ko er alene. Han går på græs.
 Går og går.  
 Nu får han en ven. De leger  
 fangeleg.  
+<br>
 Koen slår sig på et træ.   
 Koen får et ar - av-av!
 
   *-Slut-*
   
 
+###
+
+Testings
