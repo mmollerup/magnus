@@ -14,28 +14,23 @@ library(vembedr)
 
 <br> <br>
 
-
-
-
-### Magnus åbner en pakke pokemonkort
+### Jeg åbner en pakke pokemonkort
 
 ![](IMG_0622.mp4){width="100%"}
 
 <br> <br>
 
-
-<!-- ### Magnus prøvesmager et sodavandsmix -->
+### Jeg prøvesmager et sodavandsmix
 
 ```{r, echo=FALSE}
-# #knitr::include_url("https://www.youtube.com/embed/9bZkp7q19f0", height="200")
-# #knitr::include_url("https://www.youtube.com/embed/PjHI5SJHGU8")
-# #knitr::include_url("https://www.youtube.com/watch?v=PjHI5SJHGU8",height = "200px")
-# #knitr::include_url("https://www.youtube.com/embed/PjHI5SJHGU8", height = "100px")
-# #embed_url("https://www.youtube.com/watch?v=PjHI5SJHGU8")
-# embed_url("https://www.youtube.com/watch?v=Ck9iDBAc1X0&t=149s")
+#knitr::include_url("https://www.youtube.com/embed/9bZkp7q19f0", height="200")
+#knitr::include_url("https://www.youtube.com/embed/PjHI5SJHGU8")
+#knitr::include_url("https://www.youtube.com/watch?v=PjHI5SJHGU8",height = "200px")
+#knitr::include_url("https://www.youtube.com/embed/PjHI5SJHGU8", height = "100px")
+#embed_url("https://www.youtube.com/watch?v=PjHI5SJHGU8")
+embed_url("https://www.youtube.com/watch?v=Ck9iDBAc1X0&t=149s")
 ```
 
 <br> <br>
-
 
 <!-- *-Slut-* -->
