@@ -46,8 +46,6 @@ library(webexercises)
 
 55 + 65 = ? 
 
-530  + 190 = ?
-
 `r hide("Løsning")`
 
 55 + 65 = 120
