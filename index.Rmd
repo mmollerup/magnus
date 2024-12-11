@@ -12,7 +12,7 @@ library(webexercises)
 
 # UHUUU!
 
-Testings
+
 
 
 ![](IMG_0772.jpg){width="100%"}
